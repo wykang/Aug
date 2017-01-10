@@ -1,0 +1,8 @@
+<<<<<epoch 42, minibatch 400/400, training accuracy 0.81710>>>>>
+('hits train, ', array([ 3347.,  3606.,  2952.,  2734.,  3141.,  2918.,  3446.,  3464.,
+        3590.,  3486.]))
+[    9    12    13 ..., 39986 39991 39998]
+[3 7 2 ..., 6 2 2]
+(7012,)
+epoch 42, minibatch 400/400, valid accuracy 0.68660
+     epoch 42, minibatch 400/400, test accuracy 0.67700

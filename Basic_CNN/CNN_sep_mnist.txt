@@ -1,0 +1,7 @@
+45/50 epoch, @iter = 10000/50000, training accuracy : 1.00000
+45/50 epoch, @iter = 20000/50000, training accuracy : 0.99990
+45/50 epoch, @iter = 30000/50000, training accuracy : 0.99983
+45/50 epoch, @iter = 40000/50000, training accuracy : 0.99982
+45/50 epoch, @iter = 50000/50000, training accuracy : 0.99978
+epoch 45, minibatch 500/500, valid accuracy 0.99240
+     epoch 45, minibatch 500/500, test accuracy 0.99340
